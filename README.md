@@ -6,4 +6,4 @@ Palpite comes from a portuguese word which means an opinion.
 
 A place where you can make reviews and give suggestions to restaurants with the possibility to obtain a coupon discount as a reward!
 
-Here you can check the website: palpite-box-george.vercel.app
+Here you can check the website: https://palpite-box-george.vercel.app
